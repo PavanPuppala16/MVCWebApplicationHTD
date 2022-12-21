@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp16", "ConsoleApp16\ConsoleApp16.csproj", "{EDD30099-445A-4109-B515-B566A4569E00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pavan2162", "Pavan2162\Pavan2162.csproj", "{1350B7C5-2925-4EBA-9C76-7564C9F64464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDD30099-445A-4109-B515-B566A4569E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD30099-445A-4109-B515-B566A4569E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD30099-445A-4109-B515-B566A4569E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD30099-445A-4109-B515-B566A4569E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1350B7C5-2925-4EBA-9C76-7564C9F64464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1350B7C5-2925-4EBA-9C76-7564C9F64464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1350B7C5-2925-4EBA-9C76-7564C9F64464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1350B7C5-2925-4EBA-9C76-7564C9F64464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88F3B9EA-7E97-4326-9500-B5FAD9279FDC}
+	EndGlobalSection
+EndGlobal

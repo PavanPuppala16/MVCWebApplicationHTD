@@ -1,0 +1,15 @@
+C:\Users\pavan\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\ConsoleApp16.exe.config
+C:\Users\pavan\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\ConsoleApp16.exe
+C:\Users\pavan\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\ConsoleApp16.pdb
+C:\Users\pavan\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.csproj.AssemblyReference.cache
+C:\Users\pavan\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.csproj.SuggestedBindingRedirects.cache
+C:\Users\pavan\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.csproj.CoreCompileInputs.cache
+C:\Users\pavan\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.exe
+C:\Users\pavan\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.pdb
+C:\Users\pavan\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\FixityProject.dll
+C:\Users\pavan\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\FixityProject.pdb
+C:\Users\pavan\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.csproj.CopyComplete
+C:\Users\pavan\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\Pavan1616.dll
+C:\Users\pavan\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\Pavan1616.pdb
+C:\Users\pavan\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\Pavan2162.dll
+C:\Users\pavan\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\Pavan2162.pdb

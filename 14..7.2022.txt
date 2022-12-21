@@ -1,0 +1,82 @@
+[11:41] Khaja Moinuddin - Fixity
+            public void Add()
+        {​
+            Console.WriteLine("Enter X :");
+            int x = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter y :");
+            int y = Convert.ToInt32(Console.ReadLine());
+            int z;
+            z = x + y;
+            Console.WriteLine("Add is :" + z);
+        }​
+        public int sub(int x, int y)
+        {​
+            int z;
+            z = x - y;
+            Console.WriteLine("Sub is :" + z);
+            return z;
+        }​
+        public void Mul()
+        {​
+            int x = 50, y = 50, z;
+            z = x * y;
+            Console.WriteLine("Mul is :" + z);
+        }​
+        public void Test3()
+        {​
+        }​
+        public string Test()
+        {​
+            return "";
+        }​
+        public float Test1()
+        {​
+            return 0.00f;
+        }​
+        public static void Div()
+        {​
+            int x = 12, y = 2, z;
+            z = x / y;
+            Console.WriteLine("Div is :" + z);
+        }​
+
+
+
+
+
+
+
+[11:41] Khaja Moinuddin - Fixity
+    ClassDemo obj = new ClassDemo();
+             obj.Add();
+             int res = obj.sub(12, 2);  //o/p
+             if (res == 10)
+             {​
+                 Console.WriteLine("do this");
+             }​
+             else
+             {​
+                 Console.WriteLine("Do that");
+             }​
+             obj.Mul();
+             ClassDemo.Div();
+             MethodOverload obj1 = new MethodOverload();
+             obj1.M1(1);
+             StaticClassEx.Test1();
+             StaticClassEx.Test2();
+             StaticClassEx.Test3();
+             Console.WriteLine();
+
+CREATE TABLE TB_CUSTOMERS
+(
+   ID   INT              NOT NULL,
+   NAME VARCHAR (20)     NOT NULL,
+   AGE  INT              NOT NULL,
+   ADDRESS  CHAR (25) ,
+   SALARY   DECIMAL (18, 2),       
+  
+)
+
+
+https://www.techspot.com/downloads/7241-visual-studio-2019.html
+

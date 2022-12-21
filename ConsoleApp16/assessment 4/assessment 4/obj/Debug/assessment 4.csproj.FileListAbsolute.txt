@@ -1,0 +1,27 @@
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment 4.csproj.AssemblyReference.cache
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment_4.myupdate.resources
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment_4.Properties.Resources.resources
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment_4.Task1cs.resources
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment 4.csproj.GenerateResource.cache
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment 4.csproj.CoreCompileInputs.cache
+C:\Users\pavan\source\repos\assessment 4\assessment 4\bin\Debug\assessment 4.exe.config
+C:\Users\pavan\source\repos\assessment 4\assessment 4\bin\Debug\assessment 4.exe
+C:\Users\pavan\source\repos\assessment 4\assessment 4\bin\Debug\assessment 4.pdb
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment 4.exe
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment 4.pdb
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment_4.TASK11.resources
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment_4.Task13.resources
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment_4.Task12.resources
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment_4.LibraryInsert.resources
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment_4.LibraryTask.resources
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment_4.Student.resources
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment_4.StudentLogin.resources
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment_4.LibraryBookUpdate.resources
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment_4.BookAssesing.resources
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment_4.BookReturn.resources
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment_4.Registration.resources
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment_4.AvailableBook.resources
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment_4.StudentDetailsInserting.resources
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment_4.AFTERASSIGNINGDATAcs.resources
+C:\Users\pavan\source\repos\assessment 4\assessment 4\obj\Debug\assessment_4.REGISRATIONFORM.resources

@@ -1,0 +1,42 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ViewDataEx</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>ViewDataEx</h1>
+    @using (Html.BeginForm())
+    {
+        <table class="table">
+            <tr>
+                <td>EID</td>
+                <td>Name</td>
+                <td>Address</td>
+            </tr>
+            @foreach (var item in TempData["EmpList"] as List<MVCWebApplicationHTD.Models.viewDataModelcs>)
+            {
+                <tr>
+                    <td>@item.Eid</td>
+                    <td>@item.Name</td>
+                    <td>@item.Address</td>
+                </tr>
+            }
+        </table>
+    }
+
+
+</body>
+</html>

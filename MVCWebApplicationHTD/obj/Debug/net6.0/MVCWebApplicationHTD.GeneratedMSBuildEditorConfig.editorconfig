@@ -1,0 +1,88 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVCWebApplicationHTD
+build_property.RootNamespace = MVCWebApplicationHTD
+build_property.ProjectDir = C:\Users\PavanPuppala\source\repos\MVCWebApplicationHTD\MVCWebApplicationHTD\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\PavanPuppala\source\repos\MVCWebApplicationHTD\MVCWebApplicationHTD
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/PavanPuppala/source/repos/MVCWebApplicationHTD/MVCWebApplicationHTD/Views/Barcode/BarCodeRead.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFyY29kZVxCYXJDb2RlUmVhZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PavanPuppala/source/repos/MVCWebApplicationHTD/MVCWebApplicationHTD/Views/Barcode/GenerateBarCode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFyY29kZVxHZW5lcmF0ZUJhckNvZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PavanPuppala/source/repos/MVCWebApplicationHTD/MVCWebApplicationHTD/Views/calculator/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FsY3VsYXRvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PavanPuppala/source/repos/MVCWebApplicationHTD/MVCWebApplicationHTD/Views/Car/DELETE.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXERFTEVURS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PavanPuppala/source/repos/MVCWebApplicationHTD/MVCWebApplicationHTD/Views/Car/Displaycar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXERpc3BsYXljYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PavanPuppala/source/repos/MVCWebApplicationHTD/MVCWebApplicationHTD/Views/Car/InsertCar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXEluc2VydENhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PavanPuppala/source/repos/MVCWebApplicationHTD/MVCWebApplicationHTD/Views/Car/UPDATE.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXFVQREFURS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PavanPuppala/source/repos/MVCWebApplicationHTD/MVCWebApplicationHTD/Views/ExView/ExonViewData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhWaWV3XEV4b25WaWV3RGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PavanPuppala/source/repos/MVCWebApplicationHTD/MVCWebApplicationHTD/Views/ExView/ViewDataEx.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhWaWV3XFZpZXdEYXRhRXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PavanPuppala/source/repos/MVCWebApplicationHTD/MVCWebApplicationHTD/Views/File/Upload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVxVcGxvYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PavanPuppala/source/repos/MVCWebApplicationHTD/MVCWebApplicationHTD/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PavanPuppala/source/repos/MVCWebApplicationHTD/MVCWebApplicationHTD/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PavanPuppala/source/repos/MVCWebApplicationHTD/MVCWebApplicationHTD/Views/SecondExView/StoreData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vjb25kRXhWaWV3XFN0b3JlRGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PavanPuppala/source/repos/MVCWebApplicationHTD/MVCWebApplicationHTD/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PavanPuppala/source/repos/MVCWebApplicationHTD/MVCWebApplicationHTD/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PavanPuppala/source/repos/MVCWebApplicationHTD/MVCWebApplicationHTD/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PavanPuppala/source/repos/MVCWebApplicationHTD/MVCWebApplicationHTD/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PavanPuppala/source/repos/MVCWebApplicationHTD/MVCWebApplicationHTD/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lppgmz4ksk
